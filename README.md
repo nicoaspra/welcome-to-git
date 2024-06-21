@@ -1,11 +1,13 @@
 # welcome-to-git
 
 ## Install Homebrew
+To install Homebrew, open your terminal and run the following command:
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 ## Installing Git with Homebrew
+Once Homebrew is installed, you can use it to install Git. Open your terminal and type the following commands:
 ```bash
 # install git
 brew install git
